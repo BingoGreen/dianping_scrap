@@ -1,4 +1,4 @@
-# dianping_scrap
+# dianping_webscraping
 
 ## Framework: Scrapy
 This is for the webscraping of dianping.com, capturing most of restaurant information such as address, tel, reviews of customers, etc. of several big cities in China.
